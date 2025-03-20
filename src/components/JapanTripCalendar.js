@@ -397,6 +397,12 @@ const JapanTripCalendar = () => {
       y: event.clientY 
     });
     setShowPopup(true);
+    
+    // Play sound if traveler is Jake
+    if (traveler.name === "Jake") {
+      const audio = new Audio(`${process.env.PUBLIC_URL}/owen.mp3`);
+      audio.play().catch(e => console.log("Audio play failed:", e));
+    }
   };
   
   // Close popup when clicking outside
