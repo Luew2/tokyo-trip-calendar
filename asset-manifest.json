@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tokyo-trip-calendar/static/css/main.f4e0e939.css",
+    "main.js": "/tokyo-trip-calendar/static/js/main.fdf434e7.js",
+    "static/js/453.dec9b160.chunk.js": "/tokyo-trip-calendar/static/js/453.dec9b160.chunk.js",
+    "index.html": "/tokyo-trip-calendar/index.html",
+    "main.f4e0e939.css.map": "/tokyo-trip-calendar/static/css/main.f4e0e939.css.map",
+    "main.fdf434e7.js.map": "/tokyo-trip-calendar/static/js/main.fdf434e7.js.map",
+    "453.dec9b160.chunk.js.map": "/tokyo-trip-calendar/static/js/453.dec9b160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4e0e939.css",
+    "static/js/main.fdf434e7.js"
+  ]
+}
